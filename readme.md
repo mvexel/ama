@@ -4,7 +4,7 @@ I get a lot of questions by email. This way anyone can read the answer!
 
 [Ask a question](../../issues/new) / [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
-If you email your question to mvexel+ama@gmail.com it will also appear here.
+If you **email** your question to mvexel+ama@gmail.com or **tweet** at me with hashtax `#ama` it will also appear here.
 
 -
 
